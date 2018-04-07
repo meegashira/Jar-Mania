@@ -1,5 +1,5 @@
 # Jar-Mania
-Original game made in MIPS assembly code and created using the Mars Mips simulator. This program requires the Keyboard and Display MMIO and the Bitmap Display to be connected to MIPS.
+Original game made in MIPS assembly code and created using the Mars Mips simulator. This program requires the Keyboard and Display MMIO and the Bitmap Display to be connected to MIPS. Instructions can be selected in the game menu for more informations about the how the game works.
 
 Bitmap Display Settings:
 
